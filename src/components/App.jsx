@@ -7,8 +7,7 @@ const App = () => {
     <>
       <ContactForm />
       <Filter />
-      <ContactList />
-      
+      <ContactList />      
     </>
   );
 };
